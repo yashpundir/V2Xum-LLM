@@ -21,7 +21,7 @@ This repository extends the V2Xum-LLM framework and paper for an NLP-focused pro
 - Mohit (s25019)  
 - Yashasvi (s25018)  
 - Sahil Shukla (d25044)  
-- Navdeep (__roll number__)  
+- Navdeep (s25009)  
 - Sanjay (ptd2508)  
 
 ---
